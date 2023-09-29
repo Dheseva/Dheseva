@@ -3,9 +3,9 @@
 </div>
 ---
 
-### :man_mechanic: About Me :
+### About Me :
 My name Catura, currently want to be full stack web developer and interest to game development
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="35" height="35"/>&nbsp;
