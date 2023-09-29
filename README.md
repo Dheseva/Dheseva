@@ -4,8 +4,6 @@
 
 ---
 
-![Visitor](https://komarev.com/ghpvc/?username=dheseva&color=blue&style=flat&label=Visitors)
-
 ### About Me :
 My name Catura, currently want to be full stack web developer and interest to game development
 ### Languages and Tools :
