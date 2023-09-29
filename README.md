@@ -1,8 +1,10 @@
 <div id="header" align="center">
  hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
-![Visitors](https://komarev.com/ghpvc/?username=dheseva&color=blue&style=flat&label=Visitors)
+
 ---
+
+![Visitor](https://komarev.com/ghpvc/?username=dheseva&color=blue&style=flat&label=Visitors)
 
 ### About Me :
 My name Catura, currently want to be full stack web developer and interest to game development
