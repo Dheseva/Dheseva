@@ -5,7 +5,7 @@
 ---
 
 ### About Me :
-My name Catura, currently want to be full stack web developer and interest to game development
+My name Catura, currently want to be backe end developer and interest to game development
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="35" height="35"/>&nbsp;
